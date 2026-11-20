@@ -1,0 +1,12 @@
+tensorflow>=2.16
+tensorflow_datasets>=4.9
+importlib_resources
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+jupyter
+# Optional (only for the drawing-canvas demo in the notebook):
+# gradio
