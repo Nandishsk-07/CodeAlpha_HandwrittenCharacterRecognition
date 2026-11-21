@@ -241,7 +241,7 @@ CodeAlpha_HandwrittenCharacterRecognition/
 
 **Nandish**
 - GitHub: [@Nandishsk-07](https://github.com/Nandishsk-07)
-- LinkedIn: <add your LinkedIn profile link>
+- LinkedIn: [@Nandish SK](www.linkedin.com/in/nandish-sk-311061360)
 
 ## Acknowledgements
 
